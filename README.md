@@ -1,2 +1,2 @@
 # GetOut
-Pop-up Blocker Chrome Extension
+Pop-up Blocker for Chrome
